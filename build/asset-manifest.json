@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/erstelle_docs/static/css/main.e6c13ad2.css",
+    "main.js": "/erstelle_docs/static/js/main.3dcdc2ff.js",
+    "static/js/787.8a6e9336.chunk.js": "/erstelle_docs/static/js/787.8a6e9336.chunk.js",
+    "static/media/Regolamento di Esercizio BT (CEI 0-21_2022).pdf": "/erstelle_docs/static/media/Regolamento di Esercizio BT (CEI 0-21_2022).9018369fdadbb29e48f7.pdf",
+    "static/media/Allegato_A_-_MU_Parte_I_e_Parte_II__FTV_200kW_20_dic-3.pdf": "/erstelle_docs/static/media/Allegato_A_-_MU_Parte_I_e_Parte_II__FTV_200kW_20_dic-3.9d5a8ed99dffbc046935.pdf",
+    "index.html": "/erstelle_docs/index.html",
+    "main.e6c13ad2.css.map": "/erstelle_docs/static/css/main.e6c13ad2.css.map",
+    "main.3dcdc2ff.js.map": "/erstelle_docs/static/js/main.3dcdc2ff.js.map",
+    "787.8a6e9336.chunk.js.map": "/erstelle_docs/static/js/787.8a6e9336.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.3dcdc2ff.js"
+  ]
+}
